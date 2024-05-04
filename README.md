@@ -1,4 +1,6 @@
-### Hi there 👋
+### About Me
+I'm a professional finite element method engineer.
+I am diligently learning the Python language for the field of machine learning.
 
 <!--
 **EureCalla/EureCalla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
