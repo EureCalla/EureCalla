@@ -1,10 +1,15 @@
-### About Me
-I'm a professional Finite-Element-Method engineer.  
-I am diligently learning the Python language for the field of machine learning.  
+## 😊 About Me
+I am a dedicated Finite Element Method (FEM) engineer with a robust background in structural and thermal simulations.  
+Committed to advancing my career, I am currently enhancing my skills in machine learning and deep learning. I am rigorously learning Python to apply these technologies within my field.
+
+
   
-📫 How to reach me: hatdog63@gmail.com
+## 📬 Get in Touch
+
+[![My Contact](https://skillicons.dev/icons?i=gmail)](mailto:hatdog63@gmail.com)
 <!--
-**EureCalla/EureCalla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**[EureCalla]/[EureCalla]** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
 Here are some ideas to get you started:
 
