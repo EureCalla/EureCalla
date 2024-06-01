@@ -1,5 +1,5 @@
 ### About Me
-I'm a professional finite element method engineer.  
+I'm a professional Finite-Element-Method engineer.  
 I am diligently learning the Python language for the field of machine learning.  
   
 📫 How to reach me: hatdog63@gmail.com
