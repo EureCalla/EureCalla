@@ -2,7 +2,7 @@
 I am a dedicated Finite Element Method (FEM) engineer with a robust background in structural and thermal simulations.  
 Committed to advancing my career, I am currently enhancing my skills in machine learning and deep learning. I am rigorously learning Python to apply these technologies within my field.
 
-## 🚀 Skills
+## 🚀 Software Skills
 
 ![Python](https://skillicons.dev/icons?i=python)
 ![TensorFlow](https://skillicons.dev/icons?i=tensorflow)
