@@ -11,9 +11,9 @@ Committed to advancing my career, I am currently enhancing my skills in machine 
 ![GitHub](https://skillicons.dev/icons?i=github)
   
 ## 📬 Get in Touch
-
+[![My Contact](https://skillicons.dev/icons?i=notion)](http://hatdog63.notion.site)
 [![My Contact](https://skillicons.dev/icons?i=gmail)](mailto:hatdog63@gmail.com)
-[![My Contact](https://skillicons.dev/icons?i=notion)](mailto:(http://hatdog63.notion.site))
+
 <!--
 **[EureCalla]/[EureCalla]** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
