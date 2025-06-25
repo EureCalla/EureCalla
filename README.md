@@ -8,7 +8,9 @@ Committed to advancing my career, I am currently enhancing my skills in machine 
 ![TensorFlow](https://skillicons.dev/icons?i=tensorflow)
 ![PyTorch](https://skillicons.dev/icons?i=pytorch)
 ![VSCode](https://skillicons.dev/icons?i=vscode)
+![GitHub](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
+![GitHub](https://skillicons.dev/icons?i=anaconda)
   
 ## 📬 Get in Touch
 [![My Contact](https://skillicons.dev/icons?i=notion)](http://hatdog63.notion.site)
