@@ -10,6 +10,8 @@ Committed to advancing my career, I am currently enhancing my skills in machine 
 ![VSCode](https://skillicons.dev/icons?i=vscode)
 ![GitHub](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
+![GitHub](https://skillicons.dev/icons?i=sqlite)
+![GitHub](https://skillicons.dev/icons?i=md)
 ![GitHub](https://skillicons.dev/icons?i=anaconda)
   
 ## 📬 Get in Touch
